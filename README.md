@@ -1,4 +1,4 @@
-<img src="https://github.com/hankyungeun/hankyungeun/assets/57738749/0bfe9a91-7e57-4e1c-ad07-eeb7c51f51d2">
+<img src="https://github.com/hankyungeun/hankyungeun/assets/57738749/2df7da2b-5607-4762-9cf6-aec085bbce3f">
 
 <!--
 **hankyungeun/hankyungeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

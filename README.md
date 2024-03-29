@@ -13,24 +13,24 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5t&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white">
 
-<br>**FrameWork / Library** <br>
+**FrameWork / Library** <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Maven&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
 
-<br>**DB** <br>
+**DB** <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
-<br>**VCS** <br>
+**VCS** <br>
 <img src="https://img.shields.io/badge/Git-05032?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
 <img src="https://img.shields.io/badge/SVN-F6CED8?style=flat-square&logo=SVN&logoColor=white">
 
-<br>**Tool** <br>
+**Tool** <br>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white">
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VScode&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-#C2255?style=flat-square&logo=Eclipse&logoColor=white">

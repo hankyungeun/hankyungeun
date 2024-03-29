@@ -32,6 +32,7 @@
 
 **Tool** <br>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white">
+<img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white">
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=VScode&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-#C2255?style=flat-square&logo=Eclipse&logoColor=white">
-
+<img src="https://img.shields.io/badge/Eclipse-C2255?style=flat-square&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white">

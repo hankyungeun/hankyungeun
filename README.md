@@ -13,4 +13,5 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5t&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white">
 <br>**DB** <br>
-<img src="https://img.shields.io/badge/Oraclet-F80000?style=flat-square&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">

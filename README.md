@@ -19,13 +19,14 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Maven&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/Mybatis-ffecf1?style=flat-square&logo=Mybatis&logoColor=white">
 
 **DB** <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
 **Server** <br>
-<img src="https://img.shields.io/badge/ApacheTomcat-ffecf1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/ApacheTomcat-ffecf1?style=flat-square&logo=ApacheTomcatL&logoColor=white">
 
 **VCS** <br>
 <img src="https://img.shields.io/badge/Git-05032?style=flat-square&logo=Git&logoColor=white">

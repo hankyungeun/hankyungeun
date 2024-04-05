@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Maven&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/Mybatis-ffecf1?style=flat-square&logo=Mybatis&logoColor=white">
+<img src="https://img.shields.io/badge/Mybatis-F7DF1E?style=flat-square&logo=Mybatis&logoColor=white">
 
 **DB** <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">

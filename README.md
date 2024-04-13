@@ -25,9 +25,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
-**Server** <br>
-<img src="https://img.shields.io/badge/ApacheTomcat-ffecf1?style=flat-square&logo=ApacheTomcatL&logoColor=white">
-
 **VCS** <br>
 <img src="https://img.shields.io/badge/Git-05032?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
